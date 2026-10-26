@@ -2,7 +2,7 @@ Garmi Meter
 
 How hard is today's heat on your body, and what should you do about it?
 
-👉 Open the tool: https://ameyathanawala.github.io/Garmi-meter/
+👉 Open the tool: [https://ameyathanawala.github.io/Garmi-meter/](https://ameyathanawala.github.io/Garmi-meter/)
 
 Garmi Meter is a free heat-safety tool for India. A weather app tells you the temperature. Garmi Meter tells you what that heat will do to you: in the sun or shade, indoors or out, in your clothes, doing what you are doing.
 
